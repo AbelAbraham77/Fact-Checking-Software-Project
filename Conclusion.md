@@ -1,4 +1,4 @@
-# Fake News Filtering System
+# Conclusion
 
 This project is a valuable tool designed to combat the proliferation of fake news online. It features a user-friendly, menu-driven system that has been thoroughly tested and is bug-free.
 
